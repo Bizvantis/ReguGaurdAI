@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../../MediBot-fldr"
+		},
+		{
+			"path": "../../OS"
+		},
+		{
+			"path": "../../DSA_JAVA"
+		},
+		{
+			"path": "../../DS"
+		},
+		{
+			"path": "../../DS_Assignments"
+		},
+		{
+			"path": "../../ReguGuard"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"string.h": "c"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "MediBot-fldr"
+	}
+}

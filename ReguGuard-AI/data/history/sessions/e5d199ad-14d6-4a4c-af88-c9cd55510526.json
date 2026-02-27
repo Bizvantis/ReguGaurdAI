@@ -1,0 +1,226 @@
+{
+  "id": "e5d199ad-14d6-4a4c-af88-c9cd55510526",
+  "filename": "QMS-090-Evaluation-of-Batch-Documentation-and-Release-for-Sale-sample.pdf",
+  "industry": "Manufacturing",
+  "score": 19,
+  "risk_level": "High",
+  "timestamp": "2026-02-18T02:01:39.035157",
+  "findings_count": 12,
+  "approved_count": 0,
+  "findings": [
+    {
+      "area": "Standard Operating Procedure",
+      "status": "non_compliant",
+      "risk_level": "High",
+      "issue": "Section 'Standard Operating Procedure' has weak alignment with FDA SOP and Documentation Standards.",
+      "suggestion": "Revise to include mandates from FDA SOP and Documentation Standards: \u201cStandard Operating Procedures (SOPs) must be written, approved, and maintained.\u201d",
+      "applicable_regulations": [
+        "FDA SOP and Documentation Standards",
+        "IRS - Small Business & Self-Employed",
+        "CFR General Requirements"
+      ]
+    },
+    {
+      "area": "EHS Statement",
+      "status": "non_compliant",
+      "risk_level": "High",
+      "issue": "Section 'EHS Statement' has weak alignment with Clean Air Act & RCRA Requirements.",
+      "suggestion": "Revise to include mandates from Clean Air Act & RCRA Requirements: \u201cBusinesses must comply with the Clean Air Act standards for emissions.\u201d",
+      "applicable_regulations": [
+        "Clean Air Act & RCRA Requirements",
+        "OSHA - Workplace Safety Standards (29 CFR 1910)",
+        "FDA SOP and Documentation Standards"
+      ]
+    },
+    {
+      "area": "Table of Contents",
+      "status": "non_compliant",
+      "risk_level": "High",
+      "issue": "Section 'Table of Contents' has weak alignment with OSHA - Workplace Safety Standards (29 CFR 1910).",
+      "suggestion": "Revise to include mandates from OSHA - Workplace Safety Standards (29 CFR 1910): \u201cSkip to main content Regulations (Standards - 29 CFR) By Standard Number Standard Number > 1910 1910 - Table of Contents 1910 Subpart A - General 1910.1 - Purpose and scope. 1910.2 - Definitions. 1910.3 - Petitions for the issuance, amendment, or repeal of a s\u201d",
+      "applicable_regulations": [
+        "OSHA - Workplace Safety Standards (29 CFR 1910)",
+        "EU-OSHA - EU Health & Safety Legislation"
+      ]
+    },
+    {
+      "area": "Standard Operating Procedure",
+      "status": "non_compliant",
+      "risk_level": "High",
+      "issue": "Section 'Standard Operating Procedure' has weak alignment with FDA SOP and Documentation Standards.",
+      "suggestion": "Revise to include mandates from FDA SOP and Documentation Standards: \u201cStandard Operating Procedures (SOPs) must be written, approved, and maintained.\u201d",
+      "applicable_regulations": [
+        "FDA SOP and Documentation Standards",
+        "CFR General Requirements",
+        "IRS - Small Business & Self-Employed"
+      ]
+    },
+    {
+      "area": "3.2.4. Batch documentation should be received within 24 hours of completion of p",
+      "status": "non_compliant",
+      "risk_level": "High",
+      "issue": "Section '3.2.4. Batch documentation should be received within 24 hours of completion of packing.' has weak alignment with FDA SOP and Documentation Standards.",
+      "suggestion": "Revise to include mandates from FDA SOP and Documentation Standards: \u201cStandard Operating Procedures (SOPs) must be written, approved, and maintained.\u201d",
+      "applicable_regulations": [
+        "FDA SOP and Documentation Standards",
+        "Fair Labor Standards Act (FLSA) & FMLA",
+        "Fair Labor Standards Act (FLSA) & FMLA"
+      ]
+    },
+    {
+      "area": "4.1. Batch Documents are delivered by production to the designated Batch Documen",
+      "status": "non_compliant",
+      "risk_level": "High",
+      "issue": "Section '4.1. Batch Documents are delivered by production to the designated Batch Document office for' has weak alignment with EU-OSHA - EU Health & Safety Legislation.",
+      "suggestion": "Revise to include mandates from EU-OSHA - EU Health & Safety Legislation: \u201cThe following sections provide information on European legislation, its implementation and other practical documents on safety and health at work arranged by topic.\u201d",
+      "applicable_regulations": [
+        "EU-OSHA - EU Health & Safety Legislation",
+        "FDA SOP and Documentation Standards"
+      ]
+    },
+    {
+      "area": "4.2. Batch Documentation is to be evaluated by the authorised QA Staff in the Ba",
+      "status": "non_compliant",
+      "risk_level": "High",
+      "issue": "Section '4.2. Batch Documentation is to be evaluated by the authorised QA Staff in the Batch' has weak alignment with FDA SOP and Documentation Standards.",
+      "suggestion": "Revise to include mandates from FDA SOP and Documentation Standards: \u201cStandard Operating Procedures (SOPs) must be written, approved, and maintained.\u201d",
+      "applicable_regulations": [
+        "FDA SOP and Documentation Standards",
+        "CISA - Cyber Resource Hub"
+      ]
+    },
+    {
+      "area": "4.3. Once the Batch Documentation error has been corrected, the Batch Documents ",
+      "status": "non_compliant",
+      "risk_level": "High",
+      "issue": "Section '4.3. Once the Batch Documentation error has been corrected, the Batch Documents are placed' has weak alignment with FDA SOP and Documentation Standards.",
+      "suggestion": "Revise to include mandates from FDA SOP and Documentation Standards: \u201cStandard Operating Procedures (SOPs) must be written, approved, and maintained.\u201d",
+      "applicable_regulations": [
+        "FDA SOP and Documentation Standards",
+        "EU-OSHA - EU Health & Safety Legislation"
+      ]
+    },
+    {
+      "area": "5.1. Batch Documents are checked against the appropriate \u201cBatch Documentation Ch",
+      "status": "non_compliant",
+      "risk_level": "High",
+      "issue": "Section '5.1. Batch Documents are checked against the appropriate \u201cBatch Documentation Checklist\u201d' has weak alignment with FDA SOP and Documentation Standards.",
+      "suggestion": "Revise to include mandates from FDA SOP and Documentation Standards: \u201cStandard Operating Procedures (SOPs) must be written, approved, and maintained.\u201d",
+      "applicable_regulations": [
+        "FDA SOP and Documentation Standards",
+        "NIST - Cybersecurity Framework",
+        "IRS - Small Business & Self-Employed"
+      ]
+    },
+    {
+      "area": "5.2. Check that Section 1 of the form is correctly filled up. Each document list",
+      "status": "non_compliant",
+      "risk_level": "High",
+      "issue": "Section '5.2. Check that Section 1 of the form is correctly filled up. Each document listed on section 2 o...' has weak alignment with FTC Act & Consumer Protection Rules.",
+      "suggestion": "Revise to include mandates from FTC Act & Consumer Protection Rules: \u201cClear and conspicuous disclosure of material terms required in all consumer transactions.\u201d",
+      "applicable_regulations": [
+        "FTC Act & Consumer Protection Rules",
+        "IRS - Small Business & Self-Employed",
+        "CFR General Requirements"
+      ]
+    },
+    {
+      "area": "5.3. Consult any SOPs listed above to ensure target limit results have been atta",
+      "status": "non_compliant",
+      "risk_level": "High",
+      "issue": "Section '5.3. Consult any SOPs listed above to ensure target limit results have been attained.' has weak alignment with FDA SOP and Documentation Standards.",
+      "suggestion": "Revise to include mandates from FDA SOP and Documentation Standards: \u201cStandard Operating Procedures (SOPs) must be written, approved, and maintained.\u201d",
+      "applicable_regulations": [
+        "FDA SOP and Documentation Standards"
+      ]
+    },
+    {
+      "area": "5.4. Each page of each document received must be evaluated for accuracy and comp",
+      "status": "non_compliant",
+      "risk_level": "High",
+      "issue": "Section '5.4. Each page of each document received must be evaluated for accuracy and completion.' has weak alignment with FDA SOP and Documentation Standards.",
+      "suggestion": "Revise to include mandates from FDA SOP and Documentation Standards: \u201cStandard Operating Procedures (SOPs) must be written, approved, and maintained.\u201d",
+      "applicable_regulations": [
+        "FDA SOP and Documentation Standards",
+        "EU GDPR - Official Journal (EUR-Lex)"
+      ]
+    }
+  ],
+  "approved_changes": {},
+  "rejected_changes": {},
+  "executive_summary": "Document reviewed using Rule-based (section-based, RAG-matched). Findings were generated per section by matching that section\u2019s text to the most relevant scraped regulations. Overall compliance is estimated at 19% with High risk.",
+  "compliance_debt_estimate": 9720,
+  "citations": [
+    {
+      "source": "FDA - Regulatory Procedures",
+      "url": "https://www.fda.gov/about-fda/regulatory-procedures-manual",
+      "title": "FDA SOP and Documentation Standards",
+      "relevance_score": 0.2450478621659934
+    },
+    {
+      "source": "IRS - Small Business & Self-Employed",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed",
+      "title": "IRS - Small Business & Self-Employed",
+      "relevance_score": 0.09217237797492579
+    },
+    {
+      "source": "FTC - Consumer Protection",
+      "url": "https://www.ftc.gov/legal-library/browse/rules",
+      "title": "FTC Act & Consumer Protection Rules",
+      "relevance_score": 0.08337900724482097
+    },
+    {
+      "source": "eCFR - Code of Federal Regulations",
+      "url": "https://www.ecfr.gov",
+      "title": "CFR General Requirements",
+      "relevance_score": 0.07994249305841077
+    },
+    {
+      "source": "EU-OSHA - EU Health & Safety Legislation",
+      "url": "https://osha.europa.eu/en/legislation",
+      "title": "EU-OSHA - EU Health & Safety Legislation",
+      "relevance_score": 0.06488849687867394
+    },
+    {
+      "source": "EPA - Environmental Regulations",
+      "url": "https://www.epa.gov/regulatory-information",
+      "title": "Clean Air Act & RCRA Requirements",
+      "relevance_score": 0.06488447068838035
+    },
+    {
+      "source": "OSHA - Workplace Safety Standards (29 CFR 1910)",
+      "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910",
+      "title": "OSHA - Workplace Safety Standards (29 CFR 1910)",
+      "relevance_score": 0.0640436482022441
+    },
+    {
+      "source": "NIST - Cybersecurity Framework",
+      "url": "https://www.nist.gov/cyberframework",
+      "title": "NIST - Cybersecurity Framework",
+      "relevance_score": 0.05349738856423727
+    },
+    {
+      "source": "DOL - Employment Laws",
+      "url": "https://www.dol.gov/general/aboutdol/majorlaws",
+      "title": "Fair Labor Standards Act (FLSA) & FMLA",
+      "relevance_score": 0.04422764456881539
+    },
+    {
+      "source": "CISA - Cyber Resource Hub",
+      "url": "https://www.cisa.gov/resources-tools/resources",
+      "title": "CISA - Cyber Resource Hub",
+      "relevance_score": 0.044061206145811826
+    }
+  ],
+  "sop_text": "Standard Operating Procedure      \nTitle: Evaluation of Batch Documentation and Release for Sale \n______________________________________________________________________________________ \nCopyright\u00a9www.gmpsop.com . All rights reserved \nUnauthorized copying, publishing, transmission and distribution of any part of the content by electronic \nmeans are strictly prohibited. Page 2 of 22 Form-150 Example-Logbook for Tablet Batch Documents \nForm-210 Goods Booking Slip \nForm-450 Deviation Report Form \nForm-540 Pallet Booking Information \nForm-555 Batch Documentation Checklist for Tablet Packing \nForm-560 Test and Retention Sample Log Book \nForm-565 QA Inspection Sheet \nTEM-145 Finished Product Specification and Test Report Template \nTEM-150 Packaging Material Specification and Test Report \nTEM-155 Bill of Materials Template \nQMS-020 Documentation Rule for GMP Documents \nMAN-055 Procedures for Line Clearance, Line Opening and Line Cleaning \nMAN-080 Example-Manufacturing Instruction for Tablet Packing \nMAN-060 Reconciliation of Component and Product \nQMS-035 Deviation Report System \nQMS-065 Rework Procedure \nQMS-085 Example-Checklist for Batch Documentation \nMAN-005 Clothing Requirements Inside the Factory Area. \nMAN-060 Reconciliation of Component and Product \nQMS-075 Determination of Batch Disposition \nQMS-070 Authorised Person \nQMS-125 Quality Concern Investigation Process \nMAN-120 Example-Packed Tablet Sampling by Production Personnel for Testing \nLAB-045 Retention Samples - Laboratory \nLAB-065 Finished Goods-Laboratory Testing and Documentation \nEHS Statement \n\u2022Protective eyewear and gloves should be worn when handling 70% IPA.\n\u2022Care must be taken to avoid injury to personnel or damage to the sample.\n\u2022Product packed in glass requires extra care to be taken.\n\u2022QA staffs must observe clothing requirements when collecting samples (see SOP MAN-005)\nTable of Contents \n1.Summary of Evaluation of Samples and Batch Documents by QA ................................................................ 3 \n2.Training of QA Staff ........................................................................................................................................ 3 \n3.Receiving/Collecting of Samples .................................................................................................................... 3 \n4.Receiving/Collecting of Batch Documents...................................................................................................... 4 \n5.Evaluation of Batch Documents...................................................................................................................... 4\nStandard Operating Procedure      \nTitle: Evaluation of Batch Documentation and Release for Sale \n______________________________________________________________________________________ \nCopyright\u00a9www.gmpsop.com . All rights reserved \nUnauthorized copying, publishing, transmission and distribution of any part of the content by electronic \nmeans are strictly prohibited. Page 4 of 22 carton from which the test samples were taken. Then sign on the Sample Logbook \n(Form-560 ) \n3.2.4. Batch documentation should be received within 24 hours of completion of packing. \n4. Receiving/Collecting of Batch Documents \n4.1. Batch Documents are delivered by production to the designated Batch Document office for \neach process area and are placed in the incoming tray labelled \u201cCompleted Batch \nDocuments\u201d.   Batch Documents are logged into the Batch Documentation Logbook, \n(Form-150 ) by production staff and must be signed and dated as logged out by the QA Staff \nbefore QA evaluation.    \n4.2. Batch Documentation is to be evaluated by the authorised QA Staff in the Batch \nDocumentation office.   Any Batch Documentation errors found are to be flagged by a Post-it \nnote and placed into the Process Manager\u2019s Red incoming tray labelled \u201cCorrections\u201d.   \nProcess managers are responsible for checking the correction trays daily to ensure prompt resolution of errors. NOTE: The use of \u2018Post-it\u2019 notes is restricted to the flagging of an error, there is to be \nno GMP information recorded onto the post-it note.   The \u2018Post-it\u2019 note is to be \nremoved only by the QA Staff evaluating the batch documentation. \n4.3. Once the Batch Documentation error has been corrected, the Batch Documents are placed \nby production into the Green incoming tray labelled \u201cCorrected Batch Documents\u201d for \ncollection by the QA Staff.   The QA staff will sign and date the Batch Documentation \nLogbook prior to removal from the office. \n5. Evaluation of Batch Documents \n5.1. Batch Documents are checked against the appropriate \u201cBatch Documentation Checklist\u201d \n(Form-555 ) (see SOP QMS-085 ).   This checklist is printed by production and delivered with \nthe Batch Documents. \nNOTE: Use RED pen to perform all QA checks on the \u201cBatch Documentation \nChecklist\u201d Form. \n5.2. Check that Section 1 of the form is correctly filled up. Each document listed on section 2 of the checklist has been received and that all relevant paperwork is of the same BPN and the \nsame manufacturing Material Code.   Write \u201cN/A\u201d on page 1 next to any documents not \napplicable to the BPN. Check any additional forms are attached with the MI sheet. \n5.3. Consult any SOPs listed above to ensure target limit results have been attained. \n5.4. Each page of each document received must be evaluated for accuracy and completion. \n5.5. Any issues with documentation that is less than the criteria listed below should be actioned \nas detailed in Section 4 above. \n5.5.1. A DR (See SOP QMS-035) must be raised if any of the following are noted \nduring evaluation of Batch Documents: \n5.5.1.1. Critical entries have been left blank, e.g. missing signature on Line \nClearance. \n5.5.1.2. Excessive, (i.e. greater than 5) non-critical entries are missing. \n(A production operator may correct non-critical entries, e.g. missing one tick, \nwithout raising a DR.) \n5.5.1.3. An entry is recorded incorrectly and not corrected, e.g. incorrect date. \n5.5.1.4. Documents indicate there has been an absence of due care, e.g. illegible \nentries; multiple (greater than 5) entries marked as corrected by operators.\nStandard Operating Procedure      \nTitle: Evaluation of Batch Documentation and Release for Sale \n______________________________________________________________________________________ \nCopyright\u00a9www.gmpsop.com . All rights reserved \nUnauthorized copying, publishing, transmission and distribution of any part of the content by electronic \nmeans are strictly prohibited. Page 7 of 22 9.1. Authorised QA Person responsible for batch release for sale will ensure the following before \na batch is released for sale: \n9.1.1. Batch documents (completed MI Sheet, Forms and Records) are correctly checked \nfor completeness and consistency. \n9.1.2. All in-process and finished product testing were done according to Finished Product Specifications and Test Report. \n9.1.3. Stability samples are taken according to stability program. Retention samples are correctly checked and managed. \n9.1.4. Batch documentation checklist ( Form-555 ) is correctly checked, filled up and signed \nby both authorised production staff and QA Staff. \n9.1.5. QA Inspection Sheet (Form-565 ) is correctly filled up, signed and no data has \ninconsistency or no test result is out of specification. \n9.2. \n9.3. \n9.4. \n9.5. 9.1.6. All Deviation Reports ( Form-450 ) raised were successfully completed, corrective \nactions are implemented and preventative actions are listed. \nIf all the actions are meeting the in-house and regulatory requirements, the Authorised QA \nPerson will sign the Batch Document Checklist to release the batch. \nAuthorised QA Person will produce appropriate number of RELEASED stickers, sign and \nsend those to warehouse to labelled the pallets in Quarantine. \nFor any unsuccessful inspection or non conformance authorised QA Person will hold the \nbatch before the non-conformance is investigated (See SOP QMS-125 ) and the assignable \ncause will be determined. \nFor any critical or serious defect or non-conformance authorised QA Person will reject the \nbatch by stamping a RED reject stamp on the checklist and sign the form. Appropriate number of reject stickers will be produced and signed and send to warehouse to stick those \nonto the rejected pallets. \n10. Rework \n10.1. If a BPN is reworked, see SOP QMS-065 and ensure the following is received: \nForm-380 should be filled out by production and sent with relevant Batch Documentation again for evaluation and consequent release of the batch. \n11. Summary of Changes \nVersion # Revision History \nQMS-090 New \nEnd of Procedure\nForm-125 \nIssue date: \nBatch Reconciliation Sheet for Tablet Packing \n(Ref. SOP MAN-060; MAN-080) \nCopyright\u00a9www.gmpsop.com. All rights reserved \nUnauthorized copying, publishing, transmission and distribution of any part of the content by electronic means are strictly prohibited. Page 10 of 22 Material Code Lab. Batch Number Received Qty Rejected Qty Returned Qty Sent toIP\nSlip Sheet \nShippers \nShipper \nlabels \nTablets Reconciliation Cartons Reconciliation \nA. No. of Tablets Received A. No. of Cartons Received \nNo. of Tablets Packed No. of Cartons Packed \nNo. of Tablets Sampled No. of Cartons Sampled \nNo. of Tablets Rejected No. of Cartons Rejected \nNo. of Tablets Returned No. of Cartons Returned \nB. Total Tablets Used B. Total Cartons Used \n(B/A) x 100 = Tablets Yield (B/A) x 100 = Cartons Yield\nForm-210 \nIssue date \nGoods Booking Slip \n(Ref. SOP MAN-080; MAN-035; WAR-040) \nCopyright\u00a9www.gmpsop.com. All rights reserved \nUnauthorized copying, publishing, transmission and distribution of any part of the content by electronic means are strictly prohibited. Page 14 of 22 Finished Product Movement Direction \nStorage Type Storage Bin Sign Date \nQ (Quarantine) \nFinished goods Store \nComment if item is rejected: \nGoods Booking Number: YYXXZZZZ Date: \nProduct Code: Product Name: \nBatch Production Number (BPN): No. of pallets: \nProcess Line: No. of retention Samples: \nItem # Material \nCode Material Description Mfg\u2019s Batch # Initial Qty. Qty. after \nsampled Date & Qty. after \nRe- sampled (if applicable) \nDate: \nReceiving store person: Sign: Date: \nSampler: Sign: Date: \nSampler (if re-sampled): Sign: Date:\nForm-450 \nIssue date: \nDeviation Report Form \n(Ref. SOP QMS-035; MAN-080) \nCopyright\u00a9www.gmpsop.com . All rights reserved \nUnauthorized copying, publishing, transmission and distribution of any part of the content by electronic \nmeans are strictly prohibited. Page 17 of 22 3. QA Management Response Tasks \nQA Manager to evaluate the deviation and assess the potential impact to the product quality, validation and regulatory requirement. \nAsses efficacy of the actions taken. Approve the DR) \nName: Sign: Date: \nFollow up Tasks \nTask 1: \nAssigned To Planned finished date \nConfirm Task 1 completed: Sign: Date: \nTask 2: \nAssigned To Planned finished date \nConfirm Task 2 completed: Sign: Date: \nQA manager Approval Task \nConfirm follow up tasks completed: Sign: Date: \nList all follow up tasks in the QA Metrics Sheet. Place the completed report into completed DR file. If a DR is \nprocess related affecting any BPN, attach one completed copy with the batch documents.\nForm-555 \nIssue date: \nBatch Documentation Checklist For Tablet Packing \n(Ref. SOP QMS-075; QMS-085; QMS-090) \nCopyright\u00a9www.gmpsop.com . All rights reserved \nUnauthorized copying, publishing, transmission and distribution of any part of the content by electronic \nmeans are strictly prohibited. Page 19 of 22 Production is to complete Sections 1 & 2 \nQuality Assurance Department is to complete Section 3 \nSECTION 1 \nPRODUCT NAME: BPN: CODE: \nTick appropriate boxes \u2714\nPut a N/A against boxes which are NOT APPLICABLE N/A \nSECTION 2 \nThe following manufacturing documents and samples must accompany the checklist: \nProduction \u2714Prod \nInitial QA   \u2714\nManufacturing Instruction Sheets for all the process phases \nDeviation Report Form (If any DR raised) \nPrinted Material Sample Sheet/s \nBulk Tablet Sampling Form/s (if applicable) \nLine Clearance, Opening and Cleaning Form/s \nFinished Good Retention Samples \nMaterial Transfer Order Form/s \nVacuum Leak Test - Hourly Form \nVacuum Leak Test - New Foil and PVC Roll Form \nIn-Process Check - Shipper Form \nIn-Process Check-Blister and Carton form \nBatch Reconciliation Sheet for Tablet Packing \nIBC Cleaning Tag/s \nIBC Identification Label/s \nCheckweigher Weight Record (if applicable) \nPallet Booking Information \nIf any deviation raised write the DR Number/s: \n(Attach the copy of deviation report/s) \nIf any work-order raised during the batch write the order number/s: \nName of authorised production \nperson (print name): \nSignature of Authorised \nproduction person: Date: \nComments:\nForm-560 \nIssue date: \nTest and Retention Sample Log Book \n(Ref. SOP MAN-120) \nCopyright\u00a9www.gmpsop.com. All rights reserved \nUnauthorized copying, publishing, transmission and distribution of any part of the content by electronic means are strictly prohibited. Page 21 of 22 BPN \n(Batch \nno) Product Description \n(In-process finished \nGoods or Final packed\nproduct) Product \nCode No. \nSamples \n(Retention \nand Test) No. \nStability \nsamples Date \nSamples \nPlaced in \nCupboard Operator \nSign Sign \nCarton \nCoded with \nBPN/Exp Date \nTest \nSample \nTaken Lab. \nStaff \nSign Date \nRemove \nd by \nQAO QAO \nSign\n",
+  "sop_pages": [
+    "Standard Operating Procedure      \nTitle: Evaluation of Batch Documentation and Release for Sale \n______________________________________________________________________________________ \nCopyright\u00a9www.gmpsop.com . All rights reserved \nUnauthorized copying, publishing, transmission and distribution of any part of the content by electronic \nmeans are strictly prohibited. Page 2 of 22 Form-150 Example-Logbook for Tablet Batch Documents \nForm-210 Goods Booking Slip \nForm-450 Deviation Report Form \nForm-540 Pallet Booking Information \nForm-555 Batch Documentation Checklist for Tablet Packing \nForm-560 Test and Retention Sample Log Book \nForm-565 QA Inspection Sheet \nTEM-145 Finished Product Specification and Test Report Template \nTEM-150 Packaging Material Specification and Test Report \nTEM-155 Bill of Materials Template \nQMS-020 Documentation Rule for GMP Documents \nMAN-055 Procedures for Line Clearance, Line Opening and Line Cleaning \nMAN-080 Example-Manufacturing Instruction for Tablet Packing \nMAN-060 Reconciliation of Component and Product \nQMS-035 Deviation Report System \nQMS-065 Rework Procedure \nQMS-085 Example-Checklist for Batch Documentation \nMAN-005 Clothing Requirements Inside the Factory Area. \nMAN-060 Reconciliation of Component and Product \nQMS-075 Determination of Batch Disposition \nQMS-070 Authorised Person \nQMS-125 Quality Concern Investigation Process \nMAN-120 Example-Packed Tablet Sampling by Production Personnel for Testing \nLAB-045 Retention Samples - Laboratory \nLAB-065 Finished Goods-Laboratory Testing and Documentation \nEHS Statement \n\u2022Protective eyewear and gloves should be worn when handling 70% IPA.\n\u2022Care must be taken to avoid injury to personnel or damage to the sample.\n\u2022Product packed in glass requires extra care to be taken.\n\u2022QA staffs must observe clothing requirements when collecting samples (see SOP MAN-005)\nTable of Contents \n1.Summary of Evaluation of Samples and Batch Documents by QA ................................................................ 3 \n2.Training of QA Staff ........................................................................................................................................ 3 \n3.Receiving/Collecting of Samples .................................................................................................................... 3 \n4.Receiving/Collecting of Batch Documents...................................................................................................... 4 \n5.Evaluation of Batch Documents...................................................................................................................... 4",
+    "Standard Operating Procedure      \nTitle: Evaluation of Batch Documentation and Release for Sale \n______________________________________________________________________________________ \nCopyright\u00a9www.gmpsop.com . All rights reserved \nUnauthorized copying, publishing, transmission and distribution of any part of the content by electronic \nmeans are strictly prohibited. Page 4 of 22 carton from which the test samples were taken. Then sign on the Sample Logbook \n(Form-560 ) \n3.2.4. Batch documentation should be received within 24 hours of completion of packing. \n4. Receiving/Collecting of Batch Documents \n4.1. Batch Documents are delivered by production to the designated Batch Document office for \neach process area and are placed in the incoming tray labelled \u201cCompleted Batch \nDocuments\u201d.   Batch Documents are logged into the Batch Documentation Logbook, \n(Form-150 ) by production staff and must be signed and dated as logged out by the QA Staff \nbefore QA evaluation.    \n4.2. Batch Documentation is to be evaluated by the authorised QA Staff in the Batch \nDocumentation office.   Any Batch Documentation errors found are to be flagged by a Post-it \nnote and placed into the Process Manager\u2019s Red incoming tray labelled \u201cCorrections\u201d.   \nProcess managers are responsible for checking the correction trays daily to ensure prompt resolution of errors. NOTE: The use of \u2018Post-it\u2019 notes is restricted to the flagging of an error, there is to be \nno GMP information recorded onto the post-it note.   The \u2018Post-it\u2019 note is to be \nremoved only by the QA Staff evaluating the batch documentation. \n4.3. Once the Batch Documentation error has been corrected, the Batch Documents are placed \nby production into the Green incoming tray labelled \u201cCorrected Batch Documents\u201d for \ncollection by the QA Staff.   The QA staff will sign and date the Batch Documentation \nLogbook prior to removal from the office. \n5. Evaluation of Batch Documents \n5.1. Batch Documents are checked against the appropriate \u201cBatch Documentation Checklist\u201d \n(Form-555 ) (see SOP QMS-085 ).   This checklist is printed by production and delivered with \nthe Batch Documents. \nNOTE: Use RED pen to perform all QA checks on the \u201cBatch Documentation \nChecklist\u201d Form. \n5.2. Check that Section 1 of the form is correctly filled up. Each document listed on section 2 of the checklist has been received and that all relevant paperwork is of the same BPN and the \nsame manufacturing Material Code.   Write \u201cN/A\u201d on page 1 next to any documents not \napplicable to the BPN. Check any additional forms are attached with the MI sheet. \n5.3. Consult any SOPs listed above to ensure target limit results have been attained. \n5.4. Each page of each document received must be evaluated for accuracy and completion. \n5.5. Any issues with documentation that is less than the criteria listed below should be actioned \nas detailed in Section 4 above. \n5.5.1. A DR (See SOP QMS-035) must be raised if any of the following are noted \nduring evaluation of Batch Documents: \n5.5.1.1. Critical entries have been left blank, e.g. missing signature on Line \nClearance. \n5.5.1.2. Excessive, (i.e. greater than 5) non-critical entries are missing. \n(A production operator may correct non-critical entries, e.g. missing one tick, \nwithout raising a DR.) \n5.5.1.3. An entry is recorded incorrectly and not corrected, e.g. incorrect date. \n5.5.1.4. Documents indicate there has been an absence of due care, e.g. illegible \nentries; multiple (greater than 5) entries marked as corrected by operators.",
+    "Standard Operating Procedure      \nTitle: Evaluation of Batch Documentation and Release for Sale \n______________________________________________________________________________________ \nCopyright\u00a9www.gmpsop.com . All rights reserved \nUnauthorized copying, publishing, transmission and distribution of any part of the content by electronic \nmeans are strictly prohibited. Page 7 of 22 9.1. Authorised QA Person responsible for batch release for sale will ensure the following before \na batch is released for sale: \n9.1.1. Batch documents (completed MI Sheet, Forms and Records) are correctly checked \nfor completeness and consistency. \n9.1.2. All in-process and finished product testing were done according to Finished Product Specifications and Test Report. \n9.1.3. Stability samples are taken according to stability program. Retention samples are correctly checked and managed. \n9.1.4. Batch documentation checklist ( Form-555 ) is correctly checked, filled up and signed \nby both authorised production staff and QA Staff. \n9.1.5. QA Inspection Sheet (Form-565 ) is correctly filled up, signed and no data has \ninconsistency or no test result is out of specification. \n9.2. \n9.3. \n9.4. \n9.5. 9.1.6. All Deviation Reports ( Form-450 ) raised were successfully completed, corrective \nactions are implemented and preventative actions are listed. \nIf all the actions are meeting the in-house and regulatory requirements, the Authorised QA \nPerson will sign the Batch Document Checklist to release the batch. \nAuthorised QA Person will produce appropriate number of RELEASED stickers, sign and \nsend those to warehouse to labelled the pallets in Quarantine. \nFor any unsuccessful inspection or non conformance authorised QA Person will hold the \nbatch before the non-conformance is investigated (See SOP QMS-125 ) and the assignable \ncause will be determined. \nFor any critical or serious defect or non-conformance authorised QA Person will reject the \nbatch by stamping a RED reject stamp on the checklist and sign the form. Appropriate number of reject stickers will be produced and signed and send to warehouse to stick those \nonto the rejected pallets. \n10. Rework \n10.1. If a BPN is reworked, see SOP QMS-065 and ensure the following is received: \nForm-380 should be filled out by production and sent with relevant Batch Documentation again for evaluation and consequent release of the batch. \n11. Summary of Changes \nVersion # Revision History \nQMS-090 New \nEnd of Procedure",
+    "Form-125 \nIssue date: \nBatch Reconciliation Sheet for Tablet Packing \n(Ref. SOP MAN-060; MAN-080) \nCopyright\u00a9www.gmpsop.com. All rights reserved \nUnauthorized copying, publishing, transmission and distribution of any part of the content by electronic means are strictly prohibited. Page 10 of 22 Material Code Lab. Batch Number Received Qty Rejected Qty Returned Qty Sent toIP\nSlip Sheet \nShippers \nShipper \nlabels \nTablets Reconciliation Cartons Reconciliation \nA. No. of Tablets Received A. No. of Cartons Received \nNo. of Tablets Packed No. of Cartons Packed \nNo. of Tablets Sampled No. of Cartons Sampled \nNo. of Tablets Rejected No. of Cartons Rejected \nNo. of Tablets Returned No. of Cartons Returned \nB. Total Tablets Used B. Total Cartons Used \n(B/A) x 100 = Tablets Yield (B/A) x 100 = Cartons Yield",
+    "Form-210 \nIssue date \nGoods Booking Slip \n(Ref. SOP MAN-080; MAN-035; WAR-040) \nCopyright\u00a9www.gmpsop.com. All rights reserved \nUnauthorized copying, publishing, transmission and distribution of any part of the content by electronic means are strictly prohibited. Page 14 of 22 Finished Product Movement Direction \nStorage Type Storage Bin Sign Date \nQ (Quarantine) \nFinished goods Store \nComment if item is rejected: \nGoods Booking Number: YYXXZZZZ Date: \nProduct Code: Product Name: \nBatch Production Number (BPN): No. of pallets: \nProcess Line: No. of retention Samples: \nItem # Material \nCode Material Description Mfg\u2019s Batch # Initial Qty. Qty. after \nsampled Date & Qty. after \nRe- sampled (if applicable) \nDate: \nReceiving store person: Sign: Date: \nSampler: Sign: Date: \nSampler (if re-sampled): Sign: Date:",
+    "Form-450 \nIssue date: \nDeviation Report Form \n(Ref. SOP QMS-035; MAN-080) \nCopyright\u00a9www.gmpsop.com . All rights reserved \nUnauthorized copying, publishing, transmission and distribution of any part of the content by electronic \nmeans are strictly prohibited. Page 17 of 22 3. QA Management Response Tasks \nQA Manager to evaluate the deviation and assess the potential impact to the product quality, validation and regulatory requirement. \nAsses efficacy of the actions taken. Approve the DR) \nName: Sign: Date: \nFollow up Tasks \nTask 1: \nAssigned To Planned finished date \nConfirm Task 1 completed: Sign: Date: \nTask 2: \nAssigned To Planned finished date \nConfirm Task 2 completed: Sign: Date: \nQA manager Approval Task \nConfirm follow up tasks completed: Sign: Date: \nList all follow up tasks in the QA Metrics Sheet. Place the completed report into completed DR file. If a DR is \nprocess related affecting any BPN, attach one completed copy with the batch documents.",
+    "Form-555 \nIssue date: \nBatch Documentation Checklist For Tablet Packing \n(Ref. SOP QMS-075; QMS-085; QMS-090) \nCopyright\u00a9www.gmpsop.com . All rights reserved \nUnauthorized copying, publishing, transmission and distribution of any part of the content by electronic \nmeans are strictly prohibited. Page 19 of 22 Production is to complete Sections 1 & 2 \nQuality Assurance Department is to complete Section 3 \nSECTION 1 \nPRODUCT NAME: BPN: CODE: \nTick appropriate boxes \u2714\nPut a N/A against boxes which are NOT APPLICABLE N/A \nSECTION 2 \nThe following manufacturing documents and samples must accompany the checklist: \nProduction \u2714Prod \nInitial QA   \u2714\nManufacturing Instruction Sheets for all the process phases \nDeviation Report Form (If any DR raised) \nPrinted Material Sample Sheet/s \nBulk Tablet Sampling Form/s (if applicable) \nLine Clearance, Opening and Cleaning Form/s \nFinished Good Retention Samples \nMaterial Transfer Order Form/s \nVacuum Leak Test - Hourly Form \nVacuum Leak Test - New Foil and PVC Roll Form \nIn-Process Check - Shipper Form \nIn-Process Check-Blister and Carton form \nBatch Reconciliation Sheet for Tablet Packing \nIBC Cleaning Tag/s \nIBC Identification Label/s \nCheckweigher Weight Record (if applicable) \nPallet Booking Information \nIf any deviation raised write the DR Number/s: \n(Attach the copy of deviation report/s) \nIf any work-order raised during the batch write the order number/s: \nName of authorised production \nperson (print name): \nSignature of Authorised \nproduction person: Date: \nComments:",
+    "Form-560 \nIssue date: \nTest and Retention Sample Log Book \n(Ref. SOP MAN-120) \nCopyright\u00a9www.gmpsop.com. All rights reserved \nUnauthorized copying, publishing, transmission and distribution of any part of the content by electronic means are strictly prohibited. Page 21 of 22 BPN \n(Batch \nno) Product Description \n(In-process finished \nGoods or Final packed\nproduct) Product \nCode No. \nSamples \n(Retention \nand Test) No. \nStability \nsamples Date \nSamples \nPlaced in \nCupboard Operator \nSign Sign \nCarton \nCoded with \nBPN/Exp Date \nTest \nSample \nTaken Lab. \nStaff \nSign Date \nRemove \nd by \nQAO QAO \nSign"
+  ]
+}
